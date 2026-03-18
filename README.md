@@ -1,6 +1,11 @@
 SafariViewController Cordova Plugin
 ===================================
 
+All credits goes to the original REPO, this is just a fork.
+I was just having issues with the fixed java_version.
+Updated it so i can use in my cordova app. 
+Feel free to use, keeping in mind that i`m not the original author, all credits to EddyVerbruggen.
+
 [![NPM version][npm-image]][npm-url]
 [![Downloads][downloads-image]][npm-url]
 [![TotalDownloads][total-downloads-image]][npm-url]
@@ -180,6 +185,7 @@ Do this:
 
 
 ## 7. Changelog
+* 2.1.0 Bump Java version
 * 2.0.0 Support AndroidX
 * 1.6.0 A few changes for Android. See [these closed issues](https://github.com/EddyVerbruggen/cordova-plugin-safariviewcontroller/milestone/7?closed=1).
 * 1.5.3 Hidden tabs don't get removed on `hide()` (iOS). Thanks #104!
